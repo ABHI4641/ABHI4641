@@ -1,0 +1,9 @@
+turning-dial-light.html is copied unchanged from
+https://github.com/wheresryan22/anatomy
+commit 1482e8469b0a9e0d8cc18ea2740a01423d29ae80
+path examples/turning-dial/turning-dial-light.html
+sha256 7873a4873e4f1a204ca59691765915f155f44095c2c290730aa2b915b4c88c9e
+
+It is that project's 3D viewer (the turning-dial figure, light theme).
+Do not edit the HTML. The lesson around it lives in this app.
+License: LICENSE in this folder (MIT, Copyright (c) 2026 Ryan).
